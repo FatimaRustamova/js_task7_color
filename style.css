@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+section{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+}
+.color{
+    margin-top: 30px;
+    width: 600px;
+    height: 200px;
+    background-color: coral;
+}
+.button{
+    margin-top: 100px;
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+.btn1{
+    width: 250px;
+    height: 80px;
+    border-radius: 20px;
+    cursor: pointer;
+    border: 1px solid seagreen;
+    background-color: seagreen;
+}
+.btn2{
+    width: 250px;
+    height: 80px;
+    border-radius: 20px;
+    cursor: pointer;
+    border: 1px solid crimson;
+    background-color: crimson;
+}
+.btn3{
+    width: 250px;
+    height: 80px;
+    border-radius: 20px;
+    cursor: pointer;
+    border: 1px solid slateblue;
+    background-color: slateblue;
+}
+.btn4{
+    width: 250px;
+    height: 80px;
+    border-radius: 20px;
+    cursor: pointer;
+    border: 1px solid saddlebrown;
+    background-color: saddlebrown;
+}
+.btn5{
+    width: 250px;
+    height: 80px;
+    border-radius: 20px;
+    cursor: pointer;
+    border: 1px solid lightseagreen;
+    background-color: lightseagreen;
+}
+.btn6{
+    width: 250px;
+    height: 80px;
+    border-radius: 20px;
+    cursor: pointer;
+    border: 1px solid olive;
+    background-color: olive;
+}
